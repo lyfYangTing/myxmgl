@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="myxmgl"
+  id="myeclipse.1478777090201"
+  context-root="/myxmgl"
+  j2ee-spec="5.0"
+  archive="myxmgl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
